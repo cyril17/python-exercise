@@ -4,7 +4,6 @@ def build_person(first_name,last_name):
 musician = build_person('cyril','guo')
 print(musician)
 
-
 def build_person(first_name,last_name,age=''):
     person = {'first':first_name,'last':last_name}
     if age:
