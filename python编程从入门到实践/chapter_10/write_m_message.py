@@ -5,10 +5,16 @@ with open(filename,'w') as file_object:
     file_object.write("33333333\n")
 
 '''
-
 不加换行符运行结果
 dsdsdsdsd33333333
 加换行符
 dsdsdsdsd
 33333333
 '''
+
+
+with open(filename,'a') as file_object:
+    file_object.write("dsdsdsdsd\n")
+    file_object.write("33333333\n")
+
+'''a表示附加到文件'''
