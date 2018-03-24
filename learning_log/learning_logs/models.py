@@ -13,7 +13,7 @@ class Topic(models.Model):
 class Entry(models.Model):
     """学到某个主题的具体知识"""
     topic = models.ForeignKey(Topic)
-    text  = models.TextField()
+    text = models.TextField()
     date_added = models.DateField(auto_now_add=True)
 
     class Meta:
