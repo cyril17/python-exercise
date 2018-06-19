@@ -1,3 +1,4 @@
 
 names = ['gsy','txy','tdb']
-print(names)
+
+print(names[0])
