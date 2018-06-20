@@ -8,3 +8,4 @@ pwd = getpass.getpass("请输入密码：")
 
 # 打印输入的内容
 print(pwd)
+#getpass模块只能在命令行运行
