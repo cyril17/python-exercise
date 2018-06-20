@@ -1,7 +1,4 @@
-
-
-
-product_list = [
+﻿product_list = [
     ('iphone',5800),
     ('mac pro',9800),
     ('bike',800),

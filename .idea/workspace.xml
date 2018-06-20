@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day2/5-shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day2/5-shopping.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +14,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_exercise$2_deepcopy.coverage" NAME="2-deepcopy Coverage Results" MODIFIED="1529453140659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
-    <SUITE FILE_PATH="coverage/python_exercise$4_tuple.coverage" NAME="4-tuple Coverage Results" MODIFIED="1529461653272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-用户输入 Coverage Results" MODIFIED="1529465833172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
+    <SUITE FILE_PATH="coverage/python_exercise$4_tuple.coverage" NAME="4-tuple Coverage Results" MODIFIED="1529466123926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$1_for.coverage" NAME="1-for Coverage Results" MODIFIED="1529417241333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
     <SUITE FILE_PATH="coverage/python_exercise$3_copy_.coverage" NAME="3-copy-切片 Coverage Results" MODIFIED="1529461204341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$1_names.coverage" NAME="1-names Coverage Results" MODIFIED="1529452366599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
-    <SUITE FILE_PATH="coverage/python_exercise$5_shopping.coverage" NAME="5-shopping Coverage Results" MODIFIED="1529465358549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$5_shopping.coverage" NAME="5-shopping Coverage Results" MODIFIED="1529480083675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$1_for_for.coverage" NAME="1-for-for Coverage Results" MODIFIED="1529417255817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
   </component>
   <component name="FileEditorManager">
@@ -52,8 +54,8 @@
       <file leaf-file-name="4-tuple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day2/4-tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -61,8 +63,17 @@
       <file leaf-file-name="5-shopping.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day2/5-shopping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            <state relative-caret-position="236">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8-用户输入.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/8-用户输入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -114,6 +125,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day2/2-deepcopy.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/3-copy-切片.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/4-tuple.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/8-用户输入.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/5-shopping.py" />
       </list>
     </option>
@@ -189,25 +201,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.5-shopping">
-    <configuration name="1-names" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day2/1-names.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="2-deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,20 +277,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="8-用户输入" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/8-用户输入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1-names" />
       <item itemvalue="Python.2-deepcopy" />
       <item itemvalue="Python.3-copy-切片" />
       <item itemvalue="Python.4-tuple" />
       <item itemvalue="Python.5-shopping" />
+      <item itemvalue="Python.8-用户输入" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.5-shopping" />
         <item itemvalue="Python.4-tuple" />
+        <item itemvalue="Python.8-用户输入" />
         <item itemvalue="Python.3-copy-切片" />
         <item itemvalue="Python.2-deepcopy" />
-        <item itemvalue="Python.1-names" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +387,35 @@
       <option name="project" value="LOCAL" />
       <updated>1529464986921</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="shopping">
+      <created>1529465589095</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1529465589095</updated>
+    </task>
+    <task id="LOCAL-00011" summary="shopping">
+      <created>1529465656242</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529465656242</updated>
+    </task>
+    <task id="LOCAL-00012" summary="shopping">
+      <created>1529465668980</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529465668980</updated>
+    </task>
+    <task id="LOCAL-00013" summary="#getpass模块只能在命令行运行">
+      <created>1529466621417</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529466621417</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -385,17 +425,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.47708333" side_tool="true" weight="0.32882273" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5229167" visible="true" weight="0.32882273" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32882273" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5229167" visible="true" weight="0.32882273" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26603326" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2503383" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2503383" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -413,9 +453,67 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="shopping" />
+    <MESSAGE value="#getpass模块只能在命令行运行" />
+    <option name="LAST_COMMIT_MESSAGE" value="#getpass模块只能在命令行运行" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/1-names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" selection-start-line="67" selection-end-line="84" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/2-deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/3-copy-切片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/4-tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/5-shopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/1-exs-username.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/1-for-for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/8-用户输入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2/1-names.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
@@ -511,15 +609,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2/4-tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/8-用户输入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2/5-shopping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+        <state relative-caret-position="236">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
