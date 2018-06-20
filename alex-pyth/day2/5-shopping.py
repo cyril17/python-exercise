@@ -46,6 +46,3 @@ if salary.isdigit():
             print("invalid option")
 else:
     print("please input number")
-
-
-        #break
