@@ -1,4 +1,4 @@
-
+'''
 names = ['gsy','txy','tdb','wq','re','re','tt']
 
 print(names[0],names[2])
@@ -28,7 +28,58 @@ print('extend-----',names)
 
 #names.clear()
 #print(names)
+'''
 
+'''
+names = ["gsy","txy","tt","bb",["al","ph"]]
 names3 = names.copy()
-print(names3)names[1]=666
-print(names,names3)
+print(names)
+print(names3)
+names[1] = "666"
+names[4][0] = "go"
+print(names)
+print(names3)
+'''
+#浅copy
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', '666', 'tt', 'bb', ['go', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['go', 'ph']]
+'''
+'''
+
+'''
+names = ["gsy","txy","tt","bb",["al","ph"]]
+names3 = copy.copy(names)
+print(names)
+print(names3)
+names[1] = "666"
+names[4][0] = "go"
+print(names)
+print(names3)
+'''
+#浅copy,无论改names还是names3，都会变
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', '666', 'tt', 'bb', ['go', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['go', 'ph']]
+'''
+'''
+import copy
+
+names = ["gsy","txy","tt","bb",["al","ph"]]
+
+names[1] = "666"
+names[4][0] = "go"
+print(names)
+print(names3)
+'''
+浅copy,无论改names还是names3，都会变
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['al', 'ph']]
+['gsy', '666', 'tt', 'bb', ['go', 'ph']]
+['gsy', 'txy', 'tt', 'bb', ['go', 'ph']]
+'''
+names4 = copy.deepcopy(names)
+print('deepcopy-----',names)
+print('deepcopy-----',names4)
