@@ -11,6 +11,7 @@ print(p2)
 print(p3)
 print(person.index('number'))
 
+
 '''
 ['name', ['sex', 100]]
 ['name', ['sex', 100]]
