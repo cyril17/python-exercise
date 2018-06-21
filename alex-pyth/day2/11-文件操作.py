@@ -54,6 +54,7 @@ for index,line in enumerate(f.readlines):
 
 
 #hihg bige
+#
 #在这种情况下，内存中每次只保存一行，读完一行从内存中去掉，然后读取下一行，效率高
 #此种情况下文件变成了一个迭代器，
 count = 0
