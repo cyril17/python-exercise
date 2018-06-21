@@ -20,12 +20,10 @@ print(list_1.intersection(list_2))
 print(list_1 & list_2)
 ##{4, 6}
 
-
 #并集
 print(list_1.union(list_2))
 print(list_1 | list_2)
 ##{0, 1, 2, 3, 4, 5, 6, 7, 66, 9, 8, 22}
-
 
 #差集---in  1  but  not  2
 print(list_1.difference(list_2))
