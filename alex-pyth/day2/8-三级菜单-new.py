@@ -46,8 +46,7 @@ menu = {
     },
     '山东':{},
 }
-exit_flag = False
-current_layer = menu
+
 
 layers = [menu]
 
