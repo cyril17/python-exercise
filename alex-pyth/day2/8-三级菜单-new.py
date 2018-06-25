@@ -59,7 +59,8 @@ while not  exit_flag:
         current_layer = layers[-1]
         #print("change to laster", current_layer)
         layers.pop()
-    elif choice not  in current_layer:continue
+    elif choice not  in current_layer:
+        continue
     else:
         layers.append(current_layer)
         current_layer = current_layer[choice]
