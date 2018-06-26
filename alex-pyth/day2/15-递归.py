@@ -1,5 +1,5 @@
 
-
+#递归，自己调用自己
 def calc(n):
     print(n)
     if int(n/2) >0:
