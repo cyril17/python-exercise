@@ -64,3 +64,5 @@ while not  exit_flag:
     else:
         layers.append(current_layer)
         current_layer = current_layer[choice]
+
+
