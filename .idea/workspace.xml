@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="。">
+    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +20,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$16_.coverage" NAME="16-高阶函数 Coverage Results" MODIFIED="1530011171689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test5.coverage" NAME="14-func_test5 Coverage Results" MODIFIED="1529997005539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_.coverage" NAME="14-func_局部变量 Coverage Results" MODIFIED="1529998523462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$2__.coverage" NAME="2-装饰器-嵌套函数 Coverage Results" MODIFIED="1530069222464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$13__1.coverage" NAME="13-字符编码与转码-1 Coverage Results" MODIFIED="1529590752953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$5_test.coverage" NAME="5-test Coverage Results" MODIFIED="1529918770737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$3_copy_.coverage" NAME="3-copy-切片 Coverage Results" MODIFIED="1529461204341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -67,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2-装饰器-2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-2.py">
+      <file leaf-file-name="2-装饰器-高阶函数.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-高阶函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+            <state relative-caret-position="431">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2-装饰器-嵌套函数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -99,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day2/1-names.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/2-deepcopy.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/3-copy-切片.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/4-tuple.py" />
@@ -150,6 +160,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lamda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lambda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-2.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" />
       </list>
     </option>
   </component>
@@ -214,7 +225,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -234,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-装饰器-2">
+  <component name="RunManager" selected="Python.2-装饰器-嵌套函数">
     <configuration name="进度条" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +284,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="17-修改haproxy内容_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2-装饰器-嵌套函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,12 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day2/17-修改haproxy内容_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +342,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.17-修改haproxy内容_1" />
       <item itemvalue="Python.进度条" />
       <item itemvalue="Python.2-装饰器" />
       <item itemvalue="Python.2-装饰器-2" />
       <item itemvalue="Python.16-lamda" />
+      <item itemvalue="Python.2-装饰器-嵌套函数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2-装饰器-嵌套函数" />
         <item itemvalue="Python.2-装饰器-2" />
         <item itemvalue="Python.16-lamda" />
         <item itemvalue="Python.2-装饰器" />
         <item itemvalue="Python.进度条" />
-        <item itemvalue="Python.17-修改haproxy内容_1" />
       </list>
     </recent_temporary>
   </component>
@@ -673,7 +684,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530020268868</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="。">
+      <created>1530068541025</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1530068541025</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,9 +703,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32882273" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5229167" visible="true" weight="0.32665095" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5229167" visible="true" weight="0.32665095" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.23333333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798387" visible="true" weight="0.23333333" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -731,7 +749,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day2/1-定义列表.py" />
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2/1-定义列表.py" />
     <entry file="file://$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制/1-exs-username.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1051,10 +1068,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-2.py">
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-高阶函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        <state relative-caret-position="431">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
