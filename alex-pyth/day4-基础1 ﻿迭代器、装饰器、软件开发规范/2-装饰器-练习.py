@@ -91,6 +91,7 @@ def test2(name,age):
 test1()
 test2('gsy',20)   #当他运行到func()的时候，没有传入参数，故出错
 #实现了装饰器的功能，既没有改变函数的内容，也没有改变他的调用方式
+
 '''
 in thwe test1
 the func run time is 3.004528760910034 
