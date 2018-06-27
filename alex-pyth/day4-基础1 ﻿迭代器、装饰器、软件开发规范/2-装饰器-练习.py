@@ -64,8 +64,6 @@
 # in the test2
 # '''
 
-
-
 import time
 
 def timer(func):   #func=test1   ，这里有函数的嵌套
@@ -75,7 +73,6 @@ def timer(func):   #func=test1   ，这里有函数的嵌套
         stop_time=time.time()
         print('the func run time is %s ' %(stop_time-start_time))
     return deco     #not  deco()   ，这里引用了高阶函数
-
 
 @timer  #test1=timer(test1)  #只timeer(test1)返回的是韩式的额内存地址，加括号才是运行结果
 def test1():
