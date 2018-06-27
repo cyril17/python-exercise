@@ -9,7 +9,7 @@ def timmer(func):
         func()
         stop_time=time.time()
         print('the func run time is %s' %(stop_time-start_time))
-    return warpper
+    return
 
 #调用装饰器的时候用@就可以，不会影响原函数的运行
 @timmer
