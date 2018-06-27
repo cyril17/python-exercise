@@ -1,7 +1,3 @@
-
-
-import time
-
 user,passwd = 'gsy','123'
 
 def auth(func):
