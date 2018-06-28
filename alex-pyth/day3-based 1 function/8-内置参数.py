@@ -111,3 +111,53 @@
 # print(res)
 # #45    从0开始加到10，累加   ，x是结果，y是值，
 #
+
+# print(hex(43))
+# #0x2b     把一个数字转换成16进制
+#
+
+# def test():
+#     lcoal_var = 333
+#     print(locals())
+#
+# test()
+# print(globals())
+# print(globals().get('local_var'))
+# '''
+# {'lcoal_var': 333}
+# {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x107cb95c0>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day3-based 1 function/8-内置参数.py', '__cached__': None, 'test': <function test at 0x107e0c840>}
+# None
+# '''
+
+# print(pow(2,3))
+# #8     2的3次方
+
+#round(1.5678)
+
+# a = {6:2,8:0,1:4,-5:6,99:11,4:22}
+# print(a)
+# print(sorted(a))
+# print(sorted(a.items(),key=lambda x:x[1]))   #以value排序
+# print(sorted(a.items()))                     #以key排序
+# '''
+# {6: 2, 8: 0, 1: 4, -5: 6, 99: 11, 4: 22}
+# [-5, 1, 4, 6, 8, 99]
+# [(8, 0), (6, 2), (1, 4), (-5, 6), (99, 11), (4, 22)]
+# [(-5, 6), (1, 4), (4, 22), (6, 2), (8, 0), (99, 11)]
+# '''
+
+
+# a = [1,2,3,4]
+# b = ['a','b','c','d']
+#
+# for i in zip(a,b):
+#     print(i)
+# '''
+# (1, 'a')
+# (2, 'b')
+# (3, 'c')
+# (4, 'd')
+# 将2个列表一一对应
+# '''
+
+
