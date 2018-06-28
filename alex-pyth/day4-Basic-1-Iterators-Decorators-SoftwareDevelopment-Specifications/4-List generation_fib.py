@@ -32,7 +32,7 @@ for i in data:
 Traceback (most recent call last):
 1
 1
-  File "/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/4-List generation_fib.py", line 26, in <module>
+  File "/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/4-List generation_fib.py", line 26, in <module>
 2
     print(data.__next__())
 3

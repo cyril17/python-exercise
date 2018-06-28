@@ -16,8 +16,7 @@ f.write(json.dumps(info))  #直接读取info，write是不支持字典的，通�
 
 info['age'] = 21
 
-f.write(json.dumps(info))  #直接读取info，write是不支持字典的，通过json.dump转换为字符串，
-
+f.write(json.dumps(info))  # XIUG修改值后还是可以通过json读取写入
 
 f.close()
 
