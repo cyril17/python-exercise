@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-decorator-练习2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-decorator-练习3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-练习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-高阶函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +50,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$15_.coverage" NAME="15-递归 Coverage Results" MODIFIED="1530001368139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$2__2.coverage" NAME="2-装饰器-2 Coverage Results" MODIFIED="1530068261496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html5" />
     <SUITE FILE_PATH="coverage/python_exercise$11__2.coverage" NAME="11-文件操作-2 Coverage Results" MODIFIED="1529567708819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
-    <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-三级菜单 Coverage Results" MODIFIED="1529504369304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-内置参数 Coverage Results" MODIFIED="1530156113467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_2.coverage" NAME="2-decorator-练习2 Coverage Results" MODIFIED="1530098485232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_1.coverage" NAME="7-dictionary-1 Coverage Results" MODIFIED="1529495619283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$11__3.coverage" NAME="11-文件操作-3 Coverage Results" MODIFIED="1529569251491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -105,11 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6-生成器并行.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6-生成器并行.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/6-生成器并行.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8-内置参数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
             </state>
           </provider>
         </entry>
@@ -151,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day2/9-shopping-优化.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day2/10-集合.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/lyrics" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/进度条.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day2/11-文件操作-2.py" />
@@ -202,6 +205,8 @@
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/5-List generation_fib.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/4-List generation_fib.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/6-生成器并行.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/8-内置参数.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py" />
       </list>
     </option>
   </component>
@@ -243,6 +248,12 @@
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
+              <item name="day3-based 1 function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
               <item name="day4- Basic 1 Iterators, Decorators, Software Development Specifications" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -269,6 +280,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
       <recent name="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
       <recent name="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
       <recent name="$PROJECT_DIR$/alex-pyth/day3-基础1  函数" />
@@ -286,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5-List generation_fib">
+  <component name="RunManager" selected="Python.8-内置参数">
     <configuration name="2-装饰器-高阶函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -339,25 +351,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-练习.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="2-decorator-exercise3-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/2-decorator-exercise3-test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,6 +413,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="8-内置参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="_pydev_execfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -440,19 +452,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.2-decorator-exercise3-test" />
       <item itemvalue="Python.3-List generation" />
       <item itemvalue="Python._pydev_execfile" />
       <item itemvalue="Python.4-List generation_fib" />
       <item itemvalue="Python.5-List generation_fib" />
+      <item itemvalue="Python.8-内置参数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8-内置参数" />
         <item itemvalue="Python.5-List generation_fib" />
         <item itemvalue="Python.4-List generation_fib" />
         <item itemvalue="Python.3-List generation" />
         <item itemvalue="Python._pydev_execfile" />
-        <item itemvalue="Python.2-decorator-exercise3-test" />
       </list>
     </recent_temporary>
   </component>
@@ -466,13 +478,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00011" summary="shopping">
-      <created>1529465656242</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1529465656242</updated>
     </task>
     <task id="LOCAL-00012" summary="shopping">
       <created>1529465668980</created>
@@ -810,7 +815,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530106268718</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="装饰器">
+      <created>1530151331428</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1530151331428</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1062,13 +1074,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/7-字典的循环.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/9-shopping-优化.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1360,8 +1365,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/6-生成器并行.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
         </state>
       </provider>
     </entry>
