@@ -19,3 +19,15 @@ while True:
      except StopIteration as e:
          print('Generator return value:', e.value)
          break
+'''
+g: 1
+g: 2
+g: 3
+g: 5
+g: 8
+g: 13
+g: 21
+g: 34
+g: 55
+Generator return value: None
+'''
