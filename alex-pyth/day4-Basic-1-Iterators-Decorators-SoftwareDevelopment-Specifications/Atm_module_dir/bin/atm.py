@@ -19,5 +19,10 @@ from core import main
 
 main.login()
 
-
+'''
+/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/bin/core.py
+/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/bin/core.py
+/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir
+welcome to my core!
+'''
 

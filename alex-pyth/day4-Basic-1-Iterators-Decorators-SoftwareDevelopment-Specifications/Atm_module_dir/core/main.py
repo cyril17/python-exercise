@@ -1,4 +1,4 @@
 
 def login():
-    print('welcome to my atm!')
+    print('welcome to my core!')
 
