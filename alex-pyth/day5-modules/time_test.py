@@ -7,9 +7,11 @@ print(time.time())  #显示当时的时间戳
 #1530632813.114658
 #print(time.sleep(3))
 
-
+#返回Fri Aug 19 12:38:29 2016 格式, 同上
 print(time.asctime())
 #Tue Jul  3 23:46:56 2018
+print(time.asctime(time.localtime()))
+#Wed Jul  4 07:33:49 2018
 print(time.ctime())
 #Tue Jul  3 23:46:56 2018
 
@@ -32,9 +34,13 @@ print(time.mktime(time.gmtime()))
 #将结构化语言转换为格式化字符串时间
 print(time.strftime("%Y-%m-%d %X",time.localtime()))
 #2018-07-03 23:59:26
+print(time.strftime("%Y-%m-%d %H-%M-%S",time.localtime()))
+#2018-07-04 07-43-44
 #将格式化的时间戳改为结构化系统
 print(time.strptime('2018-07-03 13:33:33','%Y-%m-%d %X'))
 #time.struct_time(tm_year=2018, tm_mon=7, tm_mday=3, tm_hour=13, tm_min=33, tm_sec=33, tm_wday=1, tm_yday=184, tm_isdst=-1)
+
+
 
 print('---------------------')
 
@@ -61,3 +67,8 @@ print(datetime.timedelta(hours=-3))
 #-1 day, 21:00:00
 print(datetime.timedelta(minutes=3))
 #0:03:00
+
+
+c_time  = datetime.datetime.now()
+print(c_time.replace(minute=3,hour=2)) #时间替换
+#2018-07-04 02:03:04.616899
