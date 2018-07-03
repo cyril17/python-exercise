@@ -3,7 +3,7 @@
 
 import time
 
-print(time.time())
+print(time.time())  #显示当时的时间戳
 #1530632813.114658
 #print(time.sleep(3))
 
@@ -40,6 +40,7 @@ print('---------------------')
 
 import datetime
 
+#将时间戳转换为格式化时间
 print(datetime.datetime.now())
 #2018-07-04 00:43:02.177600
 print(datetime.date.fromtimestamp(1530607382.0))
@@ -47,11 +48,13 @@ print(datetime.date.fromtimestamp(1530607382.0))
 print(datetime.datetime.now())
 #2018-07-04 00:43:02.177600
 
+#将当前时间增加或者减少3天
 print(datetime.datetime.now()+datetime.timedelta(+3))
 #2018-07-07 00:45:21.352559
 print(datetime.datetime.now()+datetime.timedelta(-3))
 #2018-07-01 00:46:24.520186
 
+#将当前时间增加或者减少3小时
 print(datetime.timedelta(hours=3))
 #3:00:00
 print(datetime.timedelta(hours=-3))
