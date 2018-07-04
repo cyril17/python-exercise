@@ -62,4 +62,9 @@ print(os.path.isdir(r'/User/cyril/test/a/b'))   #﻿如果path存在，返回Tru
 print(os.path.join(r'/User/cyril/','test'))   #﻿如果path存在，返回True；如果path不存在，返回False
 #/User/cyril/test
 
+print(os.path.getatime(r'/Users/cyril/'))
+#1530712042.0941296
+#最后访问时间
+print(os.path.getmtime(r'/Users/cyril/'))
+#最后修改时间
 
