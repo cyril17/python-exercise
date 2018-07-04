@@ -26,7 +26,7 @@ print(a)
 将序列a中的元素顺序打乱
 '''
 
-生成随机验证码
+#生成随机验证码
 
 checkcode = ''
 for i in range(4):
