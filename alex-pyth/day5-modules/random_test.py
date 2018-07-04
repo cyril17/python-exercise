@@ -25,3 +25,17 @@ print(a)
 [2, 6, 3, 4, 5, 1]
 将序列a中的元素顺序打乱
 '''
+
+生成随机验证码
+
+checkcode = ''
+for i in range(4):
+    current = random.randrange(0,4)   #顾头不顾尾，只循环0到3
+    if current != i:
+        temp = chr(random.randint(65,90))
+    else:
+        temp = random.randint(0,9)
+    checkcode += str(temp)
+
+print(checkcode)
+

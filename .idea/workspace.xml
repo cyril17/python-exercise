@@ -5,9 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" line="35" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
+    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="time.time">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,6 +57,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$1_module_1.coverage" NAME="1_module_1 Coverage Results" MODIFIED="1530542272171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$3_copy_.coverage" NAME="3-copy-切片 Coverage Results" MODIFIED="1529461204341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$17__sed.coverage" NAME="17-练习_sed替换功能 Coverage Results" MODIFIED="1530016017951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1530698614057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$11_.coverage" NAME="11-文件操作 Coverage Results" MODIFIED="1529551590192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_2.coverage" NAME="7-dictionary-2 Coverage Results" MODIFIED="1529498488858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_exercise3_test.coverage" NAME="2-decorator-exercise3-test Coverage Results" MODIFIED="1530106058814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
@@ -86,18 +87,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py3_training/atm/atm/core/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#121#142#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="auth.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py3_training/atm/atm/core/auth.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,11 +117,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="time_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="569">
               <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -196,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html5/2-装饰器-2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lamda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lambda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-2.py" />
@@ -247,6 +244,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/1_module_2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
       </list>
     </option>
   </component>
@@ -266,9 +264,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="x" value="789" />
+    <option name="width" value="651" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -313,63 +311,6 @@
               <item name="py3_training" type="462c0819:PsiDirectoryNode" />
               <item name="atm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="main.py" type="8704e2dd:PyFileNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="py3_training" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="atm" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -408,7 +349,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.time_test">
+  <component name="RunManager" selected="Python.random_test">
     <configuration name="12-json序列化3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -466,25 +407,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="atm (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/bin" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/bin/atm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="atm (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -499,6 +421,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3_training/atm/atm/bin/atm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="random_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day5-modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -524,19 +465,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.atm (1)" />
       <item itemvalue="Python.atm (2)" />
       <item itemvalue="Python.1_module_1" />
       <item itemvalue="Python.1_module_2" />
       <item itemvalue="Python.time_test" />
+      <item itemvalue="Python.random_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.random_test" />
         <item itemvalue="Python.time_test" />
         <item itemvalue="Python.1_module_2" />
         <item itemvalue="Python.1_module_1" />
         <item itemvalue="Python.atm (2)" />
-        <item itemvalue="Python.atm (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -550,20 +491,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00025" summary="。">
-      <created>1529595714418</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1529595714418</updated>
-    </task>
-    <task id="LOCAL-00026" summary="。">
-      <created>1529595736509</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1529595736509</updated>
     </task>
     <task id="LOCAL-00027" summary="。">
       <created>1529595862946</created>
@@ -894,27 +821,51 @@
       <option name="project" value="LOCAL" />
       <updated>1530636793742</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="time.time">
+      <created>1530661605470</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1530661605471</updated>
+    </task>
+    <task id="LOCAL-00075" summary="time.time">
+      <created>1530696791639</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1530696791639</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="789" y="0" width="651" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.47708333" side_tool="true" weight="0.32882273" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48932678" side_tool="true" weight="0.32848486" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32882273" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
       <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.19393939" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62410074" visible="true" weight="0.26752505" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62410074" weight="0.6141215" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.2639485" />
       <window_info id="Favorites" order="2" sideWeight="0.5053957" side_tool="true" weight="0.2639485" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.31424582" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -922,7 +873,6 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32900944" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32960895" />
     </layout>
   </component>
@@ -1310,20 +1260,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/12-json序列化3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="3" lean-forward="true" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/5-List generation_fib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="28" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/2.5-decorator-exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1591,13 +1527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1690788803/time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -1621,8 +1550,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="569">
           <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="742" column="16" lean-forward="true" selection-start-line="742" selection-start-column="16" selection-end-line="742" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
