@@ -5,9 +5,8 @@
     <bookmark url="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" line="35" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="time.time">
+    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +30,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$5_List_generation_fib.coverage" NAME="5-List generation_fib Coverage Results" MODIFIED="1530198194772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$1_names.coverage" NAME="1-names Coverage Results" MODIFIED="1529452366599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$4_List_generation_fib.coverage" NAME="4-List generation_fib Coverage Results" MODIFIED="1530198091390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
+    <SUITE FILE_PATH="coverage/python_exercise$os_test.coverage" NAME="os_test Coverage Results" MODIFIED="1530710849247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$7_.coverage" NAME="7-字典的循环 Coverage Results" MODIFIED="1529499015755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$16_lamda.coverage" NAME="16-lamda Coverage Results" MODIFIED="1530063413777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-基础1  函数" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test4.coverage" NAME="14-func_test4 Coverage Results" MODIFIED="1529984353232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -121,16 +121,25 @@
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="random_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="random_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="270">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="os_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -194,7 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lamda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-基础1  函数/16-lambda.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-嵌套函数.py" />
@@ -245,6 +253,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
       </list>
     </option>
   </component>
@@ -349,7 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.random_test">
+  <component name="RunManager" selected="Python.os_test">
     <configuration name="12-json序列化3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -407,7 +416,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="atm (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="os_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -415,12 +424,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py3_training/atm/atm/bin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day5-modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py3_training/atm/atm/bin/atm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -465,19 +474,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.atm (2)" />
       <item itemvalue="Python.1_module_1" />
       <item itemvalue="Python.1_module_2" />
       <item itemvalue="Python.time_test" />
       <item itemvalue="Python.random_test" />
+      <item itemvalue="Python.os_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.os_test" />
         <item itemvalue="Python.random_test" />
         <item itemvalue="Python.time_test" />
         <item itemvalue="Python.1_module_2" />
         <item itemvalue="Python.1_module_1" />
-        <item itemvalue="Python.atm (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -491,13 +500,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00027" summary="。">
-      <created>1529595862946</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1529595862946</updated>
     </task>
     <task id="LOCAL-00028" summary="。">
       <created>1529595921774</created>
@@ -835,7 +837,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530696791639</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary=".">
+      <created>1530698641319</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1530698641319</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TodoView">
@@ -856,15 +865,15 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.19393939" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.2921212" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62410074" weight="0.6141215" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.26436782" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.2639485" />
-      <window_info id="Favorites" order="2" sideWeight="0.5053957" side_tool="true" weight="0.2639485" />
+      <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26272577" />
+      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.26436782" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -891,9 +900,9 @@
     <MESSAGE value="。" />
     <MESSAGE value="装饰器" />
     <MESSAGE value="序列化" />
-    <MESSAGE value="." />
     <MESSAGE value="time.time" />
-    <option name="LAST_COMMIT_MESSAGE" value="time.time" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1260,13 +1269,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/2.5-decorator-exercise2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/2.6-decorator-exercise3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1551,7 +1553,7 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
@@ -1571,8 +1573,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
         </state>
       </provider>
     </entry>
