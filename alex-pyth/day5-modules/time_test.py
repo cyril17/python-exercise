@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
 import time
 
 print(time.time())  #显示当时的时间戳
@@ -39,7 +38,6 @@ print(time.strftime("%Y-%m-%d %H-%M-%S",time.localtime()))
 #将格式化的时间戳改为结构化系统
 print(time.strptime('2018-07-03 13:33:33','%Y-%m-%d %X'))
 #time.struct_time(tm_year=2018, tm_mon=7, tm_mday=3, tm_hour=13, tm_min=33, tm_sec=33, tm_wday=1, tm_yday=184, tm_isdst=-1)
-
 
 
 print('---------------------')

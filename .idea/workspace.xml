@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="time_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="430">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -125,7 +125,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shutil模块.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shutil模块.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -237,7 +237,6 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/1_module_1.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/1_module_2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py" />
@@ -245,6 +244,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw2" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/a/b/111.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
       </list>
     </option>
   </component>
@@ -294,21 +294,6 @@
               <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
               <item name="day5-modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day5-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="shutil_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day5-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="shutil_test" type="462c0819:PsiDirectoryNode" />
-              <item name="c" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
@@ -507,41 +492,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00031" summary="。">
-      <created>1529597847821</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1529597847821</updated>
-    </task>
-    <task id="LOCAL-00032" summary="。">
-      <created>1529766790541</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1529766790542</updated>
-    </task>
-    <task id="LOCAL-00033" summary="。">
-      <created>1529766984794</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1529766984794</updated>
-    </task>
-    <task id="LOCAL-00034" summary="。">
-      <created>1529766991850</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1529766991850</updated>
-    </task>
-    <task id="LOCAL-00035" summary="enumerate() 函数用于将一个可遍历的数据对象(如列表、元组或字符串)组合为一个索引序列，同时列出数据和数据下标，一般用在 for 循环当中。">
-      <created>1529919376177</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1529919376177</updated>
     </task>
     <task id="LOCAL-00036" summary="。">
       <created>1529930408861</created>
@@ -851,7 +801,42 @@
       <option name="project" value="LOCAL" />
       <updated>1530712340626</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary=".">
+      <created>1530722212329</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722212329</updated>
+    </task>
+    <task id="LOCAL-00081" summary=".">
+      <created>1530722287265</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722287265</updated>
+    </task>
+    <task id="LOCAL-00082" summary=".">
+      <created>1530722306306</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722306306</updated>
+    </task>
+    <task id="LOCAL-00083" summary=".">
+      <created>1530722349664</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722349664</updated>
+    </task>
+    <task id="LOCAL-00084" summary=".">
+      <created>1530722366858</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722366859</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1515,20 +1500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1567,9 +1538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/a/b/111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1588,6 +1556,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
