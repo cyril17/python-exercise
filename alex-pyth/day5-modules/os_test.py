@@ -46,5 +46,20 @@ print(os.path.basename(r'/Users/cyril/test/a/b/b.txt'))
 #b.txt
 #﻿返回path最后的文件名。如何path以／或\结尾，那么就会返回空值。即os.path.split(path)的第二个元素
 
-print(os.path.exists(r'/User/cyril/test/a/b'))
+print(os.path.exists(r'/Users/cyril/test/a/b'))   #﻿如果path存在，返回True；如果path不存在，返回False
+
+#False
+
+print(os.path.exists('/Users/cyril/'))   #﻿如果path存在，返回True；如果path不存在，返回False
+
+print(os.path.isabs(r'test/a/b'))   #﻿如果path存在，返回True；如果path不存在，返回False
+#False
+
+print(os.path.isfile(r'/Users/cyril/test/a/b/b.txt'))   #﻿如果path存在，返回True；如果path不存在，返回False
+print(os.path.isdir(r'/User/cyril/test/a/b'))   #﻿如果path存在，返回True；如果path不存在，返回False
+
+
+print(os.path.join(r'/User/cyril/','test'))   #﻿如果path存在，返回True；如果path不存在，返回False
+#/User/cyril/test
+
 
