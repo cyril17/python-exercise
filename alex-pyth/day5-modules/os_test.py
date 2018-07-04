@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import  os
+
 print(os.path)
 #<module 'posixpath' from '/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/posixpath.py'>
 print(os.getcwd())
