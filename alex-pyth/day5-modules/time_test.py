@@ -68,4 +68,6 @@ print(datetime.timedelta(hours=-3))
 print(datetime.timedelta(minutes=3))
 #0:03:00
 
-
+c_time  = datetime.datetime.now()
+print(c_time.replace(minute=3,hour=2)) #时间替换
+#2018-07-04 02:03:04.616899
