@@ -2,11 +2,11 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/14-test_review.py" line="135" mnemonic="4" />
-    <bookmark url="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" line="35" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" line="34" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +23,12 @@
     <SUITE FILE_PATH="coverage/python_exercise$8_json.coverage" NAME="8-json序列化 Coverage Results" MODIFIED="1530178936408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$16_.coverage" NAME="16-高阶函数 Coverage Results" MODIFIED="1530011171689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$2_2_decorator_Nested_functions.coverage" NAME="2.2-decorator-Nested functions Coverage Results" MODIFIED="1530198656152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
+    <SUITE FILE_PATH="coverage/python_exercise$shelve.coverage" NAME="shelve模块 Coverage Results" MODIFIED="1530760460324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$atm__2_.coverage" NAME="atm (2) Coverage Results" MODIFIED="1530534203934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3_training/atm/atm/bin" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_3_test.coverage" NAME="2-decorator-练习3-test Coverage Results" MODIFIED="1530101838365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$2__.coverage" NAME="2-装饰器-练习 Coverage Results" MODIFIED="1530104594432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$13__1.coverage" NAME="13-字符编码与转码-1 Coverage Results" MODIFIED="1529590752953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$xmlmod.coverage" NAME="xml处理mod Coverage Results" MODIFIED="1530761710603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$5_List_generation_fib.coverage" NAME="5-List generation_fib Coverage Results" MODIFIED="1530198194772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$1_names.coverage" NAME="1-names Coverage Results" MODIFIED="1529452366599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$4_List_generation_fib.coverage" NAME="4-List generation_fib Coverage Results" MODIFIED="1530198091390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
@@ -43,6 +45,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$1_for.coverage" NAME="1-for Coverage Results" MODIFIED="1529417241333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
     <SUITE FILE_PATH="coverage/python_exercise$17_haproxy_1.coverage" NAME="17-修改haproxy内容_1 Coverage Results" MODIFIED="1530019123991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$2_3_decorator.coverage" NAME="2.3-decorator Coverage Results" MODIFIED="1530320745688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
+    <SUITE FILE_PATH="coverage/python_exercise$configparser_read.coverage" NAME="configparser_read Coverage Results" MODIFIED="1530785389734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-内置参数 Coverage Results" MODIFIED="1530173632200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_1.coverage" NAME="7-dictionary-1 Coverage Results" MODIFIED="1529495619283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$10_json2.coverage" NAME="10-json序列化2 Coverage Results" MODIFIED="1530179233761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
@@ -52,13 +55,17 @@
     <SUITE FILE_PATH="coverage/python_exercise$14_func_2.coverage" NAME="14-func_局部变量2 Coverage Results" MODIFIED="1529999738608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$.coverage" NAME="进度条 Coverage Results" MODIFIED="1530019750813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-基础1  函数" />
     <SUITE FILE_PATH="coverage/python_exercise$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1530141686903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/python_exercise$xmlnk.coverage" NAME="xml处理nk Coverage Results" MODIFIED="1530762279406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$2_.coverage" NAME="2-装饰器 Coverage Results" MODIFIED="1530105478020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test5.coverage" NAME="14-func_test5 Coverage Results" MODIFIED="1529997005539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$hashlib_modules.coverage" NAME="hashlib_modules Coverage Results" MODIFIED="1530785859430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_.coverage" NAME="14-func_局部变量 Coverage Results" MODIFIED="1529998523462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$yaml_test.coverage" NAME="yaml_test Coverage Results" MODIFIED="1530783788693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$5_test.coverage" NAME="5-test Coverage Results" MODIFIED="1529918770737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$1_module_1.coverage" NAME="1_module_1 Coverage Results" MODIFIED="1530542272171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$3_copy_.coverage" NAME="3-copy-切片 Coverage Results" MODIFIED="1529461204341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$17__sed.coverage" NAME="17-练习_sed替换功能 Coverage Results" MODIFIED="1530016017951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$xml.coverage" NAME="xml处理 Coverage Results" MODIFIED="1530761206944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1530698614057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$11_.coverage" NAME="11-文件操作 Coverage Results" MODIFIED="1529551590192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_2.coverage" NAME="7-dictionary-2 Coverage Results" MODIFIED="1529498488858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -76,6 +83,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$14_test.coverage" NAME="14-test Coverage Results" MODIFIED="1530325219081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$atm.coverage" NAME="atm Coverage Results" MODIFIED="1530495920053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/bin" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_2.coverage" NAME="2-decorator-练习2 Coverage Results" MODIFIED="1530098485232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
+    <SUITE FILE_PATH="coverage/python_exercise$configparser_test.coverage" NAME="configparser_test Coverage Results" MODIFIED="1530785018691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$11__3.coverage" NAME="11-文件操作-3 Coverage Results" MODIFIED="1529569251491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$9_json.coverage" NAME="9-json反序列化 Coverage Results" MODIFIED="1530178559288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$13_json3.coverage" NAME="13-json反序列化3 Coverage Results" MODIFIED="1530239420300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
@@ -89,84 +97,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1-模块介绍.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
+      <file leaf-file-name="xml处理mod.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xml处理mod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="time_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
+      <file leaf-file-name="xml处理nk.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xml处理nk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="random_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
+      <file leaf-file-name="yaml_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/yaml_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="3" selection-end-line="19" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configparser_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/configparser_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="os_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py">
+      <file leaf-file-name="configparser_read.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/configparser_read.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="210">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shutil模块.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py">
+      <file leaf-file-name="hashlib_modules.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/hashlib_modules.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="111.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/a/b/111.py">
+      <file leaf-file-name="example.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/example.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a_test.tar.gz" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/c/a_test.tar.gz">
+      <file leaf-file-name="example2.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/example2.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret column="269" selection-start-column="269" selection-end-column="269" />
+            <state>
+              <caret selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qw3" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw3">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="qw2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw2">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="qw1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw1">
+      <file leaf-file-name="test2.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/test2.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/test.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -194,16 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-decorator-练习2.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-decorator-练习3-test.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-decorator-练习4-test.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器-练习.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范/2-装饰器.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/2-decorator-exercise3-test.py" />
-        <option value="$PROJECT_DIR$/html5/3-List generation.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/3-List generation.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/5-List generation_fib.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/4-List generation_fib.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/6-生成器并行.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/8-内置参数.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-based 1 function/8-内置参数.py" />
@@ -237,14 +243,24 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/1_module_1.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/1_module_2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw1" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw2" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/a/b/111.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shelve模块.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/xmltest.xml" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/xml处理.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/xml处理mod.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/test.xml" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/xml处理nk.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/yaml_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/configparser_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/configparser_read.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/hashlib_modules.py" />
       </list>
     </option>
   </component>
@@ -264,8 +280,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="789" />
-    <option name="width" value="651" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -350,27 +365,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.shutil模块">
-    <configuration name="12-json序列化3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/12-json序列化3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="os_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.hashlib_modules">
+    <configuration name="configparser_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,13 +379,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/configparser_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="random_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="configparser_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,13 +398,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/configparser_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="shutil模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hashlib_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,12 +412,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day5-modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/hashlib_modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -446,7 +442,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xml处理nk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -459,26 +455,45 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/xml处理nk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="yaml_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day5-modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day5-modules/yaml_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.time_test" />
-      <item itemvalue="Python.random_test" />
-      <item itemvalue="Python.os_test" />
-      <item itemvalue="Python.sys_tets" />
-      <item itemvalue="Python.shutil模块" />
+      <item itemvalue="Python.xml处理nk" />
+      <item itemvalue="Python.yaml_test" />
+      <item itemvalue="Python.configparser_test" />
+      <item itemvalue="Python.configparser_read" />
+      <item itemvalue="Python.hashlib_modules" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shutil模块" />
-        <item itemvalue="Python.sys_tets" />
-        <item itemvalue="Python.os_test" />
-        <item itemvalue="Python.random_test" />
-        <item itemvalue="Python.time_test" />
+        <item itemvalue="Python.hashlib_modules" />
+        <item itemvalue="Python.configparser_read" />
+        <item itemvalue="Python.configparser_test" />
+        <item itemvalue="Python.yaml_test" />
+        <item itemvalue="Python.xml处理nk" />
       </list>
     </recent_temporary>
   </component>
@@ -492,41 +507,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00036" summary="。">
-      <created>1529930408861</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1529930408861</updated>
-    </task>
-    <task id="LOCAL-00037" summary="。">
-      <created>1529930424648</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1529930424648</updated>
-    </task>
-    <task id="LOCAL-00038" summary="。">
-      <created>1529930438041</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1529930438041</updated>
-    </task>
-    <task id="LOCAL-00039" summary="。">
-      <created>1529979123219</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1529979123219</updated>
-    </task>
-    <task id="LOCAL-00040" summary="。">
-      <created>1529997115085</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1529997115085</updated>
     </task>
     <task id="LOCAL-00041" summary="。">
       <created>1530001098683</created>
@@ -836,7 +816,42 @@
       <option name="project" value="LOCAL" />
       <updated>1530722366859</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary=".">
+      <created>1530722469595</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722469595</updated>
+    </task>
+    <task id="LOCAL-00086" summary=".">
+      <created>1530722488007</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722488007</updated>
+    </task>
+    <task id="LOCAL-00087" summary=".">
+      <created>1530722537350</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722537350</updated>
+    </task>
+    <task id="LOCAL-00088" summary=".">
+      <created>1530722584989</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722584989</updated>
+    </task>
+    <task id="LOCAL-00089" summary=".">
+      <created>1530722634175</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1530722634176</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TodoView">
@@ -850,22 +865,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48932678" side_tool="true" weight="0.32848486" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.29090908" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5229167" weight="0.29090908" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.11516452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.15379113" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26272577" />
-      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.26436782" />
+      <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26251787" />
+      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.2639485" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -874,8 +887,34 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32900944" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3272727" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32960895" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.29090908" />
+      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.26436782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.15164521" />
+      <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26272577" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48932678" side_tool="true" weight="0.32848486" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32900944" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32960895" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1261,101 +1300,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/2.1-Nested high functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/13-json反序列化3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/6-生成器并行.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/2.3-decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9671">
-          <caret line="791" column="18" selection-start-line="791" selection-start-column="18" selection-end-line="791" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5/third.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="630" selection-start-line="1" selection-start-column="630" selection-end-line="1" selection-end-column="630" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html5/second.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/14-test_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/logs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/15-test_review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding>
-            <element signature="e#1010#1019#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/conf/settings.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/README.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/requirements">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm/setup.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1425,9 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#44#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,9 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#121#142#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1466,9 +1404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#89#109#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1493,38 +1428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="742" column="16" lean-forward="true" selection-start-line="742" selection-start-column="16" selection-end-line="742" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
@@ -1541,13 +1448,13 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/a/b/111.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/c/a_test.tar.gz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state>
           <caret column="269" selection-start-column="269" selection-end-column="269" />
         </state>
       </provider>
@@ -1555,12 +1462,40 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/qw3">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/module_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/1-模块介绍.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1569,10 +1504,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py">
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="420">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shelve_test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/shelve模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xmltest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xml处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/output.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xml处理mod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/xml处理nk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/test2.taml" />
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/test2.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/example2.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/yaml_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/example.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/configparser_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/configparser_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/hashlib_modules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
