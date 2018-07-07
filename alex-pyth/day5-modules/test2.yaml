@@ -1,0 +1,6 @@
+age: 23
+children:
+- {age: 2, name: Jack}
+- {age: 2, name: Linda}
+name: johnson
+spouse: {age: 23, name: Hallie}
