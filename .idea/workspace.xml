@@ -6,6 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,11 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculate_test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="calculate_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/calculate_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-835">
-              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="435">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="first.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -150,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/8-json序列化.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/10-json序列化2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/11-json反序列化2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications/13-json反序列化3.py" />
@@ -201,6 +210,7 @@
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/cal_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/calculate_计算器.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/calculate_test.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/first.py" />
       </list>
     </option>
   </component>
@@ -219,8 +229,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="789" />
+    <option name="width" value="651" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -232,7 +243,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,7 +259,7 @@
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day5-modules" type="462c0819:PsiDirectoryNode" />
+              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
@@ -260,6 +270,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -435,20 +446,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00053" summary="装饰器">
-      <created>1530091792789</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1530091792789</updated>
-    </task>
-    <task id="LOCAL-00054" summary="装饰器">
-      <created>1530091820461</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1530091820461</updated>
     </task>
     <task id="LOCAL-00055" summary="装饰器">
       <created>1530091829639</created>
@@ -779,7 +776,21 @@
       <option name="project" value="LOCAL" />
       <updated>1530979721511</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary=".">
+      <created>1530979753952</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1530979753952</updated>
+    </task>
+    <task id="LOCAL-00103" summary=".">
+      <created>1530979798468</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1530979798468</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TodoView">
@@ -792,8 +803,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48932678" side_tool="true" weight="0.32848486" />
@@ -802,7 +812,7 @@
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5229167" weight="0.29090908" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.15808298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.1602289" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -823,26 +833,26 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.26436782" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6225564" visible="true" weight="0.15164521" />
       <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26272577" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.5229167" visible="true" weight="0.29090908" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3282123" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48932678" side_tool="true" weight="0.32848486" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32900944" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32960895" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
+      <window_info id="Favorites" order="2" sideWeight="0.3774436" side_tool="true" weight="0.26436782" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1229,13 +1239,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/distutils/command/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3604">
-          <caret line="79" column="63" selection-start-line="79" selection-start-column="63" selection-end-line="79" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py3_training/atm/atm/bin/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1533,8 +1536,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day5-modules/calculate_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-835">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="435">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
