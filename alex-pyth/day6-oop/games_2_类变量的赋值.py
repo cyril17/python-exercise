@@ -32,6 +32,7 @@ r1.n_list.append('from r1 list')
 r1.n = '66666'       #这里看是改类变量，但这个相当于在R1里面写了一条R1='666666'，所以此变量的赋值在R1中生效，找的时候还是从本地开始找
 print('r1:',r1.weapon,r1.n,Role.n,r1.n_list)   #
 # del r1.weapon    #删了之后在实例中就没有了，会报错，会提示AttributeError: 'Role' object has no attribute 'weapon'
+
 print(r1.weapon)
 print(r1.n,r1.name,r1.bullet_prove)
 
