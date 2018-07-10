@@ -18,8 +18,8 @@ class Role:
     def get_shot(self):
         print('ah,,,,,I got shot')
 
-    def buy_gun(self,weapon):
-        print('%s just bought %s ' %(self.name,self.weapon))
+    def buy_gun(self,gun_name):
+        print('%s just bought %s ' %(self.name,gun_name))
 
 r1 = Role('gsy1','police','m3')     #把一个类变成一个具体对象的过程叫实例化（初始化一个类，造了一个对象）
 #相当于
@@ -30,9 +30,9 @@ r3 = Role('gsy3','tou','ju')
 
 r1.shot()
 r2.get_shot()
-r3.buy_gun('ju')
+r3.buy_gun('ju2')
 '''
 shooting
 ah,,,,,I got shot
-gsy3 just bought ju 
+gsy3 just bought ju2
 '''

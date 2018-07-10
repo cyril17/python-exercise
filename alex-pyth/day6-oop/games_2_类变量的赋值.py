@@ -19,8 +19,8 @@ class Role:
     def get_shot(self):
         print('ah,,,,,I got shot')
 
-    def buy_gun(self,weapon):
-        print('%s just bought %s ' %(self.name,self.weapon))
+    def buy_gun(self,gun_name):
+        print('%s just bought %s ' %(self.name,gun_name))
 
 print(Role.n)   #在没有实例化的时候就可以直接打印值
 
