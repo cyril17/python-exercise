@@ -7,13 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day3-based 1 function/14-func_test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day3-based 1 function/14-func_test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/core/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/core/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3_training" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3_training/FTP/MadFtpServer/conf/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training/FTP/MadFtpServer/conf/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3_training/atm/atm/conf/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training/atm/atm/conf/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3_training/atm/atm/core/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training/atm/atm/core/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py3_training/堡垒机/LittleFinger/modules/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/py3_training/堡垒机/LittleFinger/modules/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -146,23 +139,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_selection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/day6-homework/Course_selection_system/bin/course_selection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#45#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="14-func_test2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day3-based 1 function/14-func_test2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -172,14 +153,32 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="作业_选课系统.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="作业_选课系统.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/作业_选课系统.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="540">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
               <folding>
                 <marker date="1531322115018" expanded="true" signature="738:741" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="页面css.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnblog_modules/页面css.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo_tupi.coffee" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cnblog_modules/logo_tupi.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -188,7 +187,7 @@
         <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/class_system/READ.ME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -202,7 +201,7 @@
         <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/core/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -211,7 +210,7 @@
         <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/8-三级菜单-new.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+              <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -222,12 +221,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CoffeeScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>北京</find>
+      <find>rgba(245, 245, 245, 0.7)</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -246,8 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/shutil_test/shutil模块.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/sys_tets.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/random_test.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day5-modules/os_test.py" />
@@ -297,6 +296,8 @@
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/class_system/READ.ME" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/day6-homework/Course_selection_system/bin/course_selection.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day3-based 1 function/14-func_test2.py" />
+        <option value="$PROJECT_DIR$/cnblog_modules/logo_tupi.coffee" />
+        <option value="$PROJECT_DIR$/cnblog_modules/页面css.coffee" />
       </list>
     </option>
   </component>
@@ -343,53 +344,7 @@
             <path>
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day3-based 1 function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-              <item name="class_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-              <item name="class_system" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_selection_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-oop" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Course_selection_system" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="cnblog_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -572,20 +527,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00068" summary=".">
-      <created>1530589204801</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1530589204801</updated>
-    </task>
-    <task id="LOCAL-00069" summary=".">
-      <created>1530589235015</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1530589235015</updated>
     </task>
     <task id="LOCAL-00070" summary=".">
       <created>1530589250937</created>
@@ -916,7 +857,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531274245590</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary=".">
+      <created>1531365933354</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1531365933354</updated>
+    </task>
+    <task id="LOCAL-00118" summary=".">
+      <created>1531365993809</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1531365993809</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -935,6 +890,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48497853" side_tool="true" weight="0.2521212" />
@@ -1370,12 +1326,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/1-names.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/10-集合-关系.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/11-lyrics.bak">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1587,14 +1537,14 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications/Atm_module_dir/core/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day2-基础1 ﻿列表、字典、集合/8-三级菜单-new.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -1611,7 +1561,7 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/class_system/READ.ME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -1628,7 +1578,7 @@
     <entry file="file://$PROJECT_DIR$/alex-pyth/day3-based 1 function/14-func_test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1637,11 +1587,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/作业_选课系统.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="540">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
           <folding>
             <marker date="1531322115018" expanded="true" signature="738:741" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnblog_modules/页面css.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnblog_modules/logo_tupi.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="50" lean-forward="true" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
         </state>
       </provider>
     </entry>
