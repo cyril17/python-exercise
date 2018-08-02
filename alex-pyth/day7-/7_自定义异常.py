@@ -12,7 +12,6 @@ class GsyException(Exception):
         return self.message
     '''
 
-
 try:
     raise GsyException('我的异常')    #raise就是触发自己写的异常
 except GsyException as e:
