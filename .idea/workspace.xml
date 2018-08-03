@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,6 +40,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$class_2.coverage" NAME="class_类的继承2 Coverage Results" MODIFIED="1531266208969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop" />
     <SUITE FILE_PATH="coverage/python_exercise$configparser_read.coverage" NAME="configparser_read Coverage Results" MODIFIED="1530785389734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-内置参数 Coverage Results" MODIFIED="1530173632200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
+    <SUITE FILE_PATH="coverage/python_exercise$queue.coverage" NAME="进程queue Coverage Results" MODIFIED="1533301432486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_1.coverage" NAME="7-dictionary-1 Coverage Results" MODIFIED="1529495619283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$10_json2.coverage" NAME="10-json序列化2 Coverage Results" MODIFIED="1530179233761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$3__.coverage" NAME="3_属性方法例子_航班 Coverage Results" MODIFIED="1531555551215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day7-" />
@@ -92,10 +94,11 @@
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test3.coverage" NAME="14-func_test3 Coverage Results" MODIFIED="1529595326154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_2.coverage" NAME="14-func_局部变量2 Coverage Results" MODIFIED="1529999738608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1530141686903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
-    <SUITE FILE_PATH="coverage/python_exercise$.coverage" NAME="属性方法 Coverage Results" MODIFIED="1531554363690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day7-" />
+    <SUITE FILE_PATH="coverage/python_exercise$.coverage" NAME="多进程 Coverage Results" MODIFIED="1533298081660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
     <SUITE FILE_PATH="coverage/python_exercise$xmlnk.coverage" NAME="xml处理nk Coverage Results" MODIFIED="1530762279406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$hashlib_modules.coverage" NAME="hashlib_modules Coverage Results" MODIFIED="1530923416174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$4__1.coverage" NAME="4_类的特殊方法_1 Coverage Results" MODIFIED="1531560108263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day7-" />
+    <SUITE FILE_PATH="coverage/python_exercise$getid.coverage" NAME="get进程id Coverage Results" MODIFIED="1533298843485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
     <SUITE FILE_PATH="coverage/python_exercise$yaml_test.coverage" NAME="yaml_test Coverage Results" MODIFIED="1530783788693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$Unittests_in_test1.coverage" NAME="Unittests in test1 Coverage Results" MODIFIED="1531222804978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/tomcat/test1" />
     <SUITE FILE_PATH="coverage/python_exercise$5_test.coverage" NAME="5-test Coverage Results" MODIFIED="1529918770737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -164,38 +167,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7_自定义异常.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7_自定义异常.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/7_自定义异常.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="315">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_属性方法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/3_属性方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4_类的特殊方法_1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/4_类的特殊方法_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4_getitem.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/4_getitem.py">
+      <file leaf-file-name="多进程.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day10/多进程.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#25#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get进程id.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day10/get进程id.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#25#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="进程queue.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/day10/进程queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -265,9 +274,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/games_类的继承.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/games_lei.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/class_类的继承2.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/class_继承.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/games_3_析构函数.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/多继承的区别.py" />
@@ -316,6 +322,9 @@
         <option value="$PROJECT_DIR$/alex-pyth/day7-/5_反射.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day7-/6_异常处理.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day7-/7_自定义异常.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day10/多进程.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day10/get进程id.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/day10/进程queue.py" />
       </list>
     </option>
   </component>
@@ -334,7 +343,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -347,6 +356,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,20 +373,12 @@
               <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
               <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day7-" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="alex-pyth" type="462c0819:PsiDirectoryNode" />
-              <item name="day7-" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,8 +413,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7_自定义异常">
-    <configuration name="4_类的特殊方法_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.进程queue">
+    <configuration name="多进程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -420,50 +422,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day7-" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day7-/4_类的特殊方法_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="4_getitem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day7-" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day7-/4_getitem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="5_反射" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day7-" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day7-/5_反射.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day10/多进程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -526,20 +490,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="get进程id" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day10/get进程id.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="进程queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/day10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/day10/进程queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.4_类的特殊方法_1" />
-      <item itemvalue="Python.4_getitem" />
-      <item itemvalue="Python.5_反射" />
       <item itemvalue="Python.6_异常处理" />
       <item itemvalue="Python.7_自定义异常" />
+      <item itemvalue="Python.多进程" />
+      <item itemvalue="Python.get进程id" />
+      <item itemvalue="Python.进程queue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.进程queue" />
+        <item itemvalue="Python.get进程id" />
+        <item itemvalue="Python.多进程" />
         <item itemvalue="Python.7_自定义异常" />
         <item itemvalue="Python.6_异常处理" />
-        <item itemvalue="Python.5_反射" />
-        <item itemvalue="Python.4_getitem" />
-        <item itemvalue="Python.4_类的特殊方法_1" />
       </list>
     </recent_temporary>
   </component>
@@ -553,34 +555,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00078" summary=".">
-      <created>1530711882843</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1530711882843</updated>
-    </task>
-    <task id="LOCAL-00079" summary=".">
-      <created>1530712340626</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1530712340626</updated>
-    </task>
-    <task id="LOCAL-00080" summary=".">
-      <created>1530722212329</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1530722212329</updated>
-    </task>
-    <task id="LOCAL-00081" summary=".">
-      <created>1530722287265</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1530722287265</updated>
     </task>
     <task id="LOCAL-00082" summary=".">
       <created>1530722306306</created>
@@ -897,7 +871,35 @@
       <option name="project" value="LOCAL" />
       <updated>1531585874883</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary=".">
+      <created>1533202406798</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1533202406798</updated>
+    </task>
+    <task id="LOCAL-00128" summary=".">
+      <created>1533202504658</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1533202504658</updated>
+    </task>
+    <task id="LOCAL-00129" summary=".">
+      <created>1533202538790</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1533202538790</updated>
+    </task>
+    <task id="LOCAL-00130" summary=".">
+      <created>1533202823707</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1533202823707</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -915,7 +917,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
@@ -923,9 +925,9 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" weight="0.2521212" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.51502144" visible="true" weight="0.2905028" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62074554" visible="true" weight="0.17525035" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62074554" visible="true" weight="0.18168813" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
@@ -947,26 +949,26 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.37925446" side_tool="true" weight="0.16237482" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62074554" visible="true" weight="0.16881259" />
       <window_info id="Structure" order="1" sideWeight="0.37589929" side_tool="true" weight="0.26180258" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" visible="true" weight="0.2521212" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3272727" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48497853" side_tool="true" weight="0.2521212" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32900944" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3139394" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32960895" />
-      <window_info id="Favorites" order="2" sideWeight="0.37925446" side_tool="true" weight="0.16237482" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1356,27 +1358,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="55" column="11" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/course.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/people.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -1607,13 +1588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1690788803/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="175" column="59" lean-forward="true" selection-start-line="175" selection-start-column="59" selection-end-line="175" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1690788803/builtins.py" />
     <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/5_反射.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1630,8 +1605,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/day7-/7_自定义异常.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day10/多进程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#25#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day10/get进程id.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/day10/进程queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
