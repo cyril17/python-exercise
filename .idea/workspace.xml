@@ -5,8 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/alex-pyth/day5-modules/time_test.py" line="34" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment=".">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="569fb635-f70f-4f77-8ac0-fede148654de" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework" beforeDir="false" afterPath="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +19,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$2_deepcopy.coverage" NAME="2-deepcopy Coverage Results" MODIFIED="1529453140659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$socket__server.coverage" NAME="socket_多并发_server Coverage Results" MODIFIED="1533435985093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_exercise4_test.coverage" NAME="2-decorator-exercise4-test Coverage Results" MODIFIED="1530105774590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4" />
+    <SUITE FILE_PATH="coverage/python_exercise$mysql_insert.coverage" NAME="mysql_insert Coverage Results" MODIFIED="1533743604913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$2_2_decorator_Nested_functions.coverage" NAME="2.2-decorator-Nested functions Coverage Results" MODIFIED="1530198656152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-Basic-1-Iterators-Decorators-SoftwareDevelopment-Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$atm__2_.coverage" NAME="atm (2) Coverage Results" MODIFIED="1530534203934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py3_training/atm/atm/bin" />
     <SUITE FILE_PATH="coverage/python_exercise$topic_publisher.coverage" NAME="topic_publisher Coverage Results" MODIFIED="1533557521966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
@@ -59,6 +59,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test5.coverage" NAME="14-func_test5 Coverage Results" MODIFIED="1529997005539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$_over.coverage" NAME="继承实例讲解_over Coverage Results" MODIFIED="1531294658814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_.coverage" NAME="14-func_局部变量 Coverage Results" MODIFIED="1529998523462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$mysql_conn.coverage" NAME="mysql_conn Coverage Results" MODIFIED="1533742939220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$3_copy_.coverage" NAME="3-copy-切片 Coverage Results" MODIFIED="1529461204341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$17__sed.coverage" NAME="17-练习_sed替换功能 Coverage Results" MODIFIED="1530016017951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$xml.coverage" NAME="xml处理 Coverage Results" MODIFIED="1530761206944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
@@ -163,30 +164,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="director_publisher.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/director_publisher.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="director_consumer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/director_consumer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="topic_publisher.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/topic_publisher.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -244,11 +221,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redis_sub.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="redis_sub.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_conn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/mysql_conn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="true" selection-end-line="33" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql_insert.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/mysql_insert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -312,8 +307,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/db.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/school.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/account.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/core/logger.py" />
         <option value="$PROJECT_DIR$/blog_mini/config.py" />
@@ -363,6 +356,8 @@
         <option value="$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py" />
         <option value="$PROJECT_DIR$/alex-pyth/Day11/redis_pub.py" />
         <option value="$PROJECT_DIR$/alex-pyth/Day11/redishelper.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/Day11/mysql_conn.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/Day11/mysql_insert.py" />
       </list>
     </option>
   </component>
@@ -458,7 +453,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.redis_sub">
+  <component name="RunManager" selected="Python.mysql_insert">
     <configuration name="calculate_计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -478,7 +473,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pipe_line_管道" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mysql_conn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -491,7 +486,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/pipe_line_管道.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/mysql_conn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mysql_insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/mysql_insert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -554,39 +568,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="rpc_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/rpc_client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.rpc_client" />
-      <item itemvalue="Python.pipe_line_管道" />
       <item itemvalue="Python.redis_pub" />
       <item itemvalue="Python.redishelper" />
       <item itemvalue="Python.redis_sub" />
+      <item itemvalue="Python.mysql_conn" />
+      <item itemvalue="Python.mysql_insert" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mysql_insert" />
+        <item itemvalue="Python.mysql_conn" />
         <item itemvalue="Python.redis_sub" />
         <item itemvalue="Python.redis_pub" />
         <item itemvalue="Python.redishelper" />
-        <item itemvalue="Python.pipe_line_管道" />
-        <item itemvalue="Python.rpc_client" />
       </list>
     </recent_temporary>
   </component>
@@ -600,20 +595,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00091" summary=".">
-      <created>1530920424192</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1530920424192</updated>
-    </task>
-    <task id="LOCAL-00092" summary=".">
-      <created>1530920447040</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1530920447040</updated>
     </task>
     <task id="LOCAL-00093" summary=".">
       <created>1530920469812</created>
@@ -944,7 +925,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533629259208</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary=".">
+      <created>1533741599007</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1533741599007</updated>
+    </task>
+    <task id="LOCAL-00141" summary=".">
+      <created>1533741627138</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1533741627138</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -963,14 +958,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.48497853" side_tool="true" weight="0.2521212" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" weight="0.3840782" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" visible="true" weight="0.3840782" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62074554" visible="true" weight="0.18168813" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -1403,12 +1397,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog_mini/app/auth/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_mini/app/main/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog_mini/app/main/errors.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1769,6 +1757,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/mysql_conn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/mysql_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>

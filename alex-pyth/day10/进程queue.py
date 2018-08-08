@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+from multiprocessing import Process, Queue
+
+
+def f(qq):
+    qq.put([42, None, 'hello'])
+
+if __name__ == '__main__':
+    q = Queue()
+    p = Process(target=f, args=(q,))
+    p.start()
+
+    print(q.get())  # prints "[42, None, 'hello']"  #父进程q传给子进程，
+    p.join()
