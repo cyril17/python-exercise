@@ -28,6 +28,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_3_test.coverage" NAME="2-decorator-练习3-test Coverage Results" MODIFIED="1530101838365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4-基础1 ﻿迭代器、装饰器、软件开发规范" />
     <SUITE FILE_PATH="coverage/python_exercise$director_consumer.coverage" NAME="director_consumer Coverage Results" MODIFIED="1533557511084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$13__1.coverage" NAME="13-字符编码与转码-1 Coverage Results" MODIFIED="1529590752953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
+    <SUITE FILE_PATH="coverage/python_exercise$redishelper.coverage" NAME="redishelper Coverage Results" MODIFIED="1533628489108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$xmlmod.coverage" NAME="xml处理mod Coverage Results" MODIFIED="1530761710603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$1_names.coverage" NAME="1-names Coverage Results" MODIFIED="1529452366599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$socket__client.coverage" NAME="socket_多并发_client Coverage Results" MODIFIED="1533436011760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
@@ -46,6 +47,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$configparser_read.coverage" NAME="configparser_read Coverage Results" MODIFIED="1530785389734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day5-modules" />
     <SUITE FILE_PATH="coverage/python_exercise$8_.coverage" NAME="8-内置参数 Coverage Results" MODIFIED="1530173632200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day3-based 1 function" />
     <SUITE FILE_PATH="coverage/python_exercise$queue.coverage" NAME="进程queue Coverage Results" MODIFIED="1533301432486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
+    <SUITE FILE_PATH="coverage/python_exercise$pipe_line_.coverage" NAME="pipe_line_管道 Coverage Results" MODIFIED="1533627774569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$7_dictionary_1.coverage" NAME="7-dictionary-1 Coverage Results" MODIFIED="1529495619283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$10_json2.coverage" NAME="10-json序列化2 Coverage Results" MODIFIED="1530179233761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
     <SUITE FILE_PATH="coverage/python_exercise$IO.coverage" NAME="自动IO切换 Coverage Results" MODIFIED="1533344034969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day10" />
@@ -103,6 +105,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$class_.coverage" NAME="class_继承 Coverage Results" MODIFIED="1531236962351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop" />
     <SUITE FILE_PATH="coverage/python_exercise$5_.coverage" NAME="5_反射 Coverage Results" MODIFIED="1531641482146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day7-" />
     <SUITE FILE_PATH="coverage/python_exercise$1_for.coverage" NAME="1-for Coverage Results" MODIFIED="1529417241333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
+    <SUITE FILE_PATH="coverage/python_exercise$redis_pub.coverage" NAME="redis_pub Coverage Results" MODIFIED="1533628498998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$operate.coverage" NAME="operate Coverage Results" MODIFIED="1531465715981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/core" />
     <SUITE FILE_PATH="coverage/python_exercise$6_string_1.coverage" NAME="6-string-1 Coverage Results" MODIFIED="1529494399557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
     <SUITE FILE_PATH="coverage/python_exercise$14_func_test3.coverage" NAME="14-func_test3 Coverage Results" MODIFIED="1529595326154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day2" />
@@ -122,6 +125,7 @@
     <SUITE FILE_PATH="coverage/python_exercise$4_getitem.coverage" NAME="4_getitem Coverage Results" MODIFIED="1531561513307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day7-" />
     <SUITE FILE_PATH="coverage/python_exercise$rpc_client.coverage" NAME="rpc_client Coverage Results" MODIFIED="1533604291206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$2_decorator_exercise3_test.coverage" NAME="2-decorator-exercise3-test Coverage Results" MODIFIED="1530106058814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day4- Basic 1 Iterators, Decorators, Software Development Specifications" />
+    <SUITE FILE_PATH="coverage/python_exercise$redis_sub.coverage" NAME="redis_sub Coverage Results" MODIFIED="1533628584169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/Day11" />
     <SUITE FILE_PATH="coverage/python_exercise$games_1.coverage" NAME="games_1 Coverage Results" MODIFIED="1531225257765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop" />
     <SUITE FILE_PATH="coverage/python_exercise$1_for_for.coverage" NAME="1-for-for Coverage Results" MODIFIED="1529417255817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day1-基础1  介绍、基本语法、流程控制" />
     <SUITE FILE_PATH="coverage/python_exercise$test_mysql.coverage" NAME="test_mysql Coverage Results" MODIFIED="1531321514958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alex-pyth/day6-oop" />
@@ -219,11 +223,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipe_line_管道.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pipe_line_管道.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/pipe_line_管道.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redishelper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redishelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis_sub.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis_pub.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redis_pub.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -278,9 +312,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/core/main.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/base.py" />
-        <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/banji.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/db.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/school.py" />
         <option value="$PROJECT_DIR$/alex-pyth/day6-oop/homework_2/python_homework/day6作业/Course_selection_system/lib/account.py" />
@@ -329,6 +360,9 @@
         <option value="$PROJECT_DIR$/alex-pyth/Day11/rpc_client.py" />
         <option value="$PROJECT_DIR$/alex-pyth/Day11/rpc_server.py" />
         <option value="$PROJECT_DIR$/alex-pyth/Day11/pipe_line_管道.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/Day11/redis_pub.py" />
+        <option value="$PROJECT_DIR$/alex-pyth/Day11/redishelper.py" />
       </list>
     </option>
   </component>
@@ -424,7 +458,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rpc_client">
+  <component name="RunManager" selected="Python.redis_sub">
     <configuration name="calculate_计算器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -444,7 +478,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="director_consumer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pipe_line_管道" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,7 +491,64 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/director_consumer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/pipe_line_管道.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="redis_pub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/redis_pub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="redis_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="redishelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/redishelper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,77 +573,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="rpc_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/rpc_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="topic_consumer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/topic_consumer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="topic_publisher" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alex-pyth/Day11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alex-pyth/Day11/topic_publisher.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.director_consumer" />
-      <item itemvalue="Python.topic_consumer" />
-      <item itemvalue="Python.topic_publisher" />
-      <item itemvalue="Python.rpc_server" />
       <item itemvalue="Python.rpc_client" />
+      <item itemvalue="Python.pipe_line_管道" />
+      <item itemvalue="Python.redis_pub" />
+      <item itemvalue="Python.redishelper" />
+      <item itemvalue="Python.redis_sub" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.redis_sub" />
+        <item itemvalue="Python.redis_pub" />
+        <item itemvalue="Python.redishelper" />
+        <item itemvalue="Python.pipe_line_管道" />
         <item itemvalue="Python.rpc_client" />
-        <item itemvalue="Python.rpc_server" />
-        <item itemvalue="Python.topic_publisher" />
-        <item itemvalue="Python.topic_consumer" />
-        <item itemvalue="Python.director_consumer" />
       </list>
     </recent_temporary>
   </component>
@@ -566,20 +600,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515762282995</updated>
-    </task>
-    <task id="LOCAL-00089" summary=".">
-      <created>1530722634175</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1530722634176</updated>
-    </task>
-    <task id="LOCAL-00090" summary=".">
-      <created>1530920395818</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1530920395819</updated>
     </task>
     <task id="LOCAL-00091" summary=".">
       <created>1530920424192</created>
@@ -910,7 +930,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533543599085</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary=".">
+      <created>1533626953977</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1533626953977</updated>
+    </task>
+    <task id="LOCAL-00139" summary=".">
+      <created>1533629259208</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1533629259208</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -936,7 +970,7 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32848486" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" visible="true" weight="0.3840782" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.51502144" weight="0.3840782" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.5106732" weight="0.32969698" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62074554" visible="true" weight="0.18168813" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -1369,17 +1403,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog_mini/app/admin/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_mini/app/auth/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_mini/app/auth/forms.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog_mini/app/auth/views.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1720,8 +1743,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/pipe_line_管道.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redis_pub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redishelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alex-pyth/Day11/redis_sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
