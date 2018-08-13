@@ -13,7 +13,7 @@ if salary.isdigit():
     salary = int(salary)
     while True:
         #for item in product_list:
-        #    print(product_list.index(item),item)
+        #    print(product_list.index.html(item),item)
         for index,item in enumerate(product_list):
             print(index,item)
 

@@ -13,7 +13,7 @@ def auth(func):
     return wrapper
 
 def index():
-    print('welcome to index page')
+    print('welcome to index.html page')
 
 @auth
 def home():
@@ -28,7 +28,7 @@ home()
 bbs()
 
 '''
-welcome to index page
+welcome to index.html page
 please input your name:gsy
 please input you passwd123
  User has passed authentication

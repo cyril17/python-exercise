@@ -10,7 +10,7 @@ p3 = list(person)
 print(p1)
 print(p2)
 print(p3)
-print(person.index('number'))
+print(person.index.html('number'))
 
 '''
 ['name', ['sex', 100]]

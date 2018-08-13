@@ -162,7 +162,7 @@ def parse_operator(formula):
                 calc_res = caculate_1(string_to_list)  # 乘除运算结果
                 data_after_removed_low_priorities[index] = calc_res
                 # print '--->string to list:',string_to_list
-                # print '+>',index, re.split('[*,/]',i)
+                # print '+>',index.html, re.split('[*,/]',i)
                 '''operators = re.findall('[*,/]',i)
                 data = re.split('[*,/]',i)
                 combine_to_one_list = map(None,data,operators)

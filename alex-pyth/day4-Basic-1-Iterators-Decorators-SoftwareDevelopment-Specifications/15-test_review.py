@@ -20,8 +20,8 @@
 #         return warpper
 #     return outwarpper
 #
-# def index():
-#     print('welcome to index')
+# def index.html():
+#     print('welcome to index.html')
 #
 # @auth(auth_type='local')
 # def home():
@@ -32,7 +32,7 @@
 # def bbs():
 #     print('welcome to bbs page')
 #
-# index()
+# index.html()
 # home()
 # bbs()
 

@@ -43,8 +43,8 @@ for line in f.readlines():
     print(line.strip())
 
 #如果想要打印前9行，则
-for index,line in enumerate(f.readlines):
-    if index == 9:
+for index.html,line in enumerate(f.readlines):
+    if index.html == 9:
         print('--------------')
         continue
     print(line.strip())

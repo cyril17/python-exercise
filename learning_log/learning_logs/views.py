@@ -4,7 +4,7 @@ from .models import Topic
 
 def index(request):
     """The home page for Learning Log."""
-    return render(request, 'learning_logs/index.html')
+    return render(request, 'learning_logs/index.html.html')
 
 def topics(request):
     """显示所有主题"""

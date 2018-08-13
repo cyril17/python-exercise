@@ -27,7 +27,7 @@ def auth(auth_type):
     return outerwrapper
 
 def index():
-    print('welcome to index page')
+    print('welcome to index.html page')
 
 @auth(auth_type="local")    #相当于home=auth（）
 def home():
@@ -45,7 +45,7 @@ bbs()
 '''
 auth func: local
 auth func: ldap
-welcome to index page
+welcome to index.html page
 wrapper func args:
 please input your name:gsy
 please input you passwd123

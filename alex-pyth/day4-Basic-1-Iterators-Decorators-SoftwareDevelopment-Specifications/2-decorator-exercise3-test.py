@@ -14,7 +14,7 @@ def auth(func):
     return wrapper
 
 def index():
-    print('welcome to index page')
+    print('welcome to index.html page')
 
 @auth
 def home():
