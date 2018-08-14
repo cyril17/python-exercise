@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <!--标签选择器-->
+    <style>
+        #i1{
+            background-color:#2459a2;
+            height:48px;
+        }
+        #i2{
+            background-color:#ffff00;
+            height:48px;
+        }
+        .c1{
+            background-color:#0000cc;
+            height:48px;
+        }
+
+        div{
+            background-color:black;
+            color:white;
+        }
+        /*这个div标签的意思就是找出body里面所有的div标签，对他进行应用*/
+
+        span div{
+            background-color:#d0e9c6;
+            color:white;
+        }
+
+        .c3   .c4  div{
+            background-color:#d0e9c6;
+            color:white;
+        }
+        /*这个是层级选择器 ，用空格，将设置应用于class等于c3下的 c4标签下的div标签*/
+
+
+        #i3,i4{
+            background-color:#d0e9c6;
+            color:white;
+        }
+        /*这个是组合选择器，用逗号，将设置应用于id等于i3和i4的标签上面*/
+
+        .i3,.i4{
+            background-color:#d0e9c6;
+            color:white;
+        }
+        /*这个是组合选择器，用逗号，将设置应用于class等于i3和i4的标签上面*/
+
+        input[type=text]{width:100px;height:200px}
+        input[type=password]{width:200px;height:200px}
+        /*input[user='cyril']{width:100px;height:200px}*/
+        .c1[user='cyril']{width:100px;height:200px}
+        /*属性选择器，将某种类型的标签设置为某种格式
+           将class等于c1的标签中user等于cyril的区域设置成，，，
+        */
+
+
+    </style>
+
+</head>
+<body>
+    <!--<div style="background-color:#2459a2;height:48px">甜果教育</div>-->
+    <div id="i1">66666</div>
+    <div id="i2">777777</div>
+    <div class="c1">888888</div>
+    <span>
+        </div>jajajajaj</div>
+    </span>
+    <div class="c1">9999999</div>
+
+    <input type="text" user="cyril"/>
+    <input class="c1" type="text" user="cyril"/>
+    <input type="password"/>
+
+</body>
+</html>
