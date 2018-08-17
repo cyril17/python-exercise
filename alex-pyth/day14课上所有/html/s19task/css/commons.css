@@ -1,0 +1,71 @@
+
+
+
+/*.hd_logo{*/
+    /*margin-left:200px;*/
+    /*height:100px;*/
+    /*float:left;*/
+/*}*/
+
+a{
+    margin-left: 50px;/*设置a标签之间的距离*/
+}
+.pg-header{
+    height: 35px;
+    width: auto;
+    background-color: #c4c4c4;
+    font-size: 15px;
+    color: #3e4750;
+    line-height: 38px;
+}
+
+.search_box {
+    width:600px;
+    height:40px;
+    border:2px solid #F94480;
+    border-right:0;
+    background-color:#fff;
+    overflow:hidden;
+    box-shadow:2px 1px 1px rgba(200,200,200,0.5) inset
+    }
+
+.head_search_hot {
+    position:absolute;
+    top:110px;
+    right:550px;
+    width:450px;
+    height:26px;
+    overflow:hidden
+}
+.head_search_hot span {
+    color:#999
+}
+.head_search_hot a {
+    margin:0 8px 0 5px;
+    color:#666
+}
+.head_search_hot a.red,.head_search_hot a:hover {
+    color:#F94480
+}
+
+.hd_cart {
+    position:absolute;
+    top:75px;
+    right:0;
+    width:450px;
+    height:26px;
+    overflow:hidden
+}
+
+.hd_nav{
+    background-color: #DD4A68;
+    height: 46px;
+    line-height: 48px;
+}
+.hd_nav a.red,.hd_nav a:hover {
+    color:white;
+}
+
+.hd_main{
+
+}
