@@ -3,8 +3,8 @@ import sys
 
 '''
 #将修改后的保存为新的文件
-f = open("11-lyrics","r",encoding="utf-8")
-f_new = open("11-lyrics.bak","w",encoding="utf-8")
+f = open("README.md-lyrics","r",encoding="utf-8")
+f_new = open("README.md-lyrics.bak","w",encoding="utf-8")
 
 
 for line in f:
@@ -18,8 +18,8 @@ f_new.close()
 
 '''
 #将修改后的保存为新的文件
-f = open("11-lyrics","r",encoding="utf-8")
-f_new = open("11-lyrics.bak","w",encoding="utf-8")
+f = open("README.md-lyrics","r",encoding="utf-8")
+f_new = open("README.md-lyrics.bak","w",encoding="utf-8")
 
 find_str = sys.argv[1]
 replace_str = sys.argv[2]
@@ -35,9 +35,9 @@ f_new.close()
 
 
 
-f = open("11-lyrics","r",encoding="utf-8")
+f = open("README.md-lyrics","r",encoding="utf-8")
 
-with open("11-lyrics",'r',encoding="utf-8") as f:
+with open("README.md-lyrics",'r',encoding="utf-8") as f:
     for line in f:
         print(line)
 

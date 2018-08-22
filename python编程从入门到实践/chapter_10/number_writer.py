@@ -9,5 +9,5 @@ with open(filname,'w') as file_object:
 
 '''
 运行结果
-在numbers.json中将会存储[2, 3, 5, 7, 11, 13]
+在numbers.json中将会存储[2, 3, 5, 7, README.md, 13]
 '''

@@ -1,7 +1,7 @@
 
 
 
-f = open("11-lyrics",'a',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
+f = open("README.md-lyrics",'a',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
 
 print(f.tell())
 print(f.readline())
@@ -44,7 +44,7 @@ print(f.fileno())
 
 #打印文件名字
 print(f.name)
-##11-lyrics
+##README.md-lyrics
 
 #判断是不是终端设备
 print(f.isatty())

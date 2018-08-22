@@ -36,7 +36,7 @@ mysql>  select * from student;
 |  5 | cyril |  21 | 2010-05-08    | NULL            |
 |  9 | ghl   |  30 | 2010-05-08    | NULL            |
 | 10 | N1    |  12 | 2019-01-01    | play football   |
-| 11 | N2    |  12 | 1990-01-01    | play basketball |
+| README.md | N2    |  12 | 1990-01-01    | play basketball |
 | 12 | N3    |  12 | 2020-01-01    | play tennis     |
 +----+-------+-----+---------------+-----------------+
 7 rows in set (0.00 sec)

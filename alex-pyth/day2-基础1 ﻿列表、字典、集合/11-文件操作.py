@@ -2,10 +2,10 @@
 
 
 '''
-#data = open("11-lyrics",encoding="utf-8").read()
+#data = open("README.md-lyrics",encoding="utf-8").read()
 #以utf-8的编码格式打开,并且读取且把他赋值给data
 #print(data)
-f = open("11-lyrics2",'a',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
+f = open("README.md-lyrics2",'a',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
 # w 的话是新建一个空文件，会覆盖源文件！！！！！
 #data = f.read()
 #data2 = f.read()
@@ -16,14 +16,14 @@ f = open("11-lyrics2",'a',encoding="utf-8")  #文件句柄，包含文件的名�
 f.write("i was ,\n")
 f.write("天安门上太阳升,\n")
 #io.UnsupportedOperation: not writable
-#如果用f = open("11-lyrics",encoding="utf-8")  打开文件，则会出现上面的错误，
+#如果用f = open("README.md-lyrics",encoding="utf-8")  打开文件，则会出现上面的错误，
 #print(data)
 data = f.read()
 print('-------read-------',data)
 
 f.close()
 '''
-f = open("11-lyrics",'r',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
+f = open("README.md-lyrics",'r',encoding="utf-8")  #文件句柄，包含文件的名字大小字符集内容内存起始位置
 
 #读出前5行
 #for i in range(5):

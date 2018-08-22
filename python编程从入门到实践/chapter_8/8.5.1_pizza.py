@@ -5,16 +5,16 @@ def make_pizza(size,*toppings):
     for topping in toppings:
         print("- "+ topping)
 
-make_pizza(16,'11')
-make_pizza(12,'11','22','33')
+make_pizza(16,'README.md')
+make_pizza(12,'README.md','22','33')
 
 '''
 运行结果
 Making's 16's pizza with following topping:
-- 11
+- README.md
 
 Making's 12's pizza with following topping:
-- 11
+- README.md
 - 22
 - 33
 

@@ -4,12 +4,12 @@ def make_pizza(*toppings):
     print(toppings)
 
 make_pizza('peppweoni')
-make_pizza('11','22','33')
+make_pizza('README.md','22','33')
 
 """
 运行结果
 ('peppweoni',)
-('11', '22', '33')
+('README.md', '22', '33')
 """
 '''
 
@@ -17,16 +17,16 @@ def make_pizza(*toppings):
     print("\nMaking a pizza with the following topping:")
     for topping in toppings:
         print('- '+ topping)
-make_pizza('11')
-make_pizza('11','22','33')
+make_pizza('README.md')
+make_pizza('README.md','22','33')
 
 '''
 运行结果
 Making a pizza with the following topping:
-- 11
+- README.md
 
 Making a pizza with the following topping:
-- 11
+- README.md
 - 22
 - 33
 
