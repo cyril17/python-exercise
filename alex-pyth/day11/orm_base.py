@@ -41,11 +41,11 @@ Session.commit()  # 现此才统一提交，创建数据
 2018-08-09 16:27:16,374 INFO sqlalchemy.engine.base.Engine {}
 2018-08-09 16:27:16,374 INFO sqlalchemy.engine.base.Engine show collation where `Charset` = 'utf8mb4' and `Collation` = 'utf8mb4_bin'
 2018-08-09 16:27:16,374 INFO sqlalchemy.engine.base.Engine {}
-2018-08-09 16:27:16,375 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS CHAR(60)) AS anon_1
+2018-08-09 16:27:16,375 INFO sqlalchemy.engine.base.Engine SELECT CAST('test.yaml plain returns' AS CHAR(60)) AS anon_1
 2018-08-09 16:27:16,375 INFO sqlalchemy.engine.base.Engine {}
-2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS CHAR(60)) AS anon_1
+2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine SELECT CAST('test.yaml unicode returns' AS CHAR(60)) AS anon_1
 2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine {}
-2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine SELECT CAST('test collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
+2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine SELECT CAST('test.yaml collated returns' AS CHAR CHARACTER SET utf8mb4) COLLATE utf8mb4_bin AS anon_1
 2018-08-09 16:27:16,376 INFO sqlalchemy.engine.base.Engine {}
 2018-08-09 16:27:16,377 INFO sqlalchemy.engine.base.Engine DESCRIBE `user`
 2018-08-09 16:27:16,377 INFO sqlalchemy.engine.base.Engine {}

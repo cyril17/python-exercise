@@ -116,16 +116,16 @@
 # #0x2b     把一个数字转换成16进制
 #
 
-# def test():
+# def test.yaml():
 #     lcoal_var = 333
 #     print(locals())
 #
-# test()
+# test.yaml()
 # print(globals())
 # print(globals().get('local_var'))
 # '''
 # {'lcoal_var': 333}
-# {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x107cb95c0>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day3-based 1 function/8-内置参数.py', '__cached__': None, 'test': <function test at 0x107e0c840>}
+# {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x107cb95c0>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/Users/cyril/Documents/python-exercise/python-exercise/alex-pyth/day3-based 1 function/8-内置参数.py', '__cached__': None, 'test.yaml': <function test.yaml at 0x107e0c840>}
 # None
 # '''
 

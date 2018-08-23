@@ -51,7 +51,7 @@
 # test1=deco(test1)
 # test1()
 #
-# test=deco(test2)
+# test.yaml=deco(test2)
 # test2()
 #
 # '''

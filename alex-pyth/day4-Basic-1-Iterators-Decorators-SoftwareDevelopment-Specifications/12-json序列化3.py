@@ -10,7 +10,7 @@ info = {
 #    'func':sayhi
 }
 
-f  = open("test.txt","w")
+f  = open("test.yaml.txt","w")
 print()
 f.write(json.dumps(info))  #直接读取info，write是不支持字典的，通过json.dump转换为字符串，
 

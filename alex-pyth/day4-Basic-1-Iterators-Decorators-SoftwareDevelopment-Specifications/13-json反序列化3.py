@@ -1,6 +1,6 @@
 import json    #pickle只能在Python中使用
 
-f  = open("test.txt","r")
+f  = open("test.yaml.txt","r")
 
 #data = pickle.loads(f.read())
 
